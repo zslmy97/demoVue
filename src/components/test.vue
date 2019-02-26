@@ -7,7 +7,7 @@
       <p>成交查询</p><img src="../img/向右.png">
     </div>
     <div @click.prevent="contractSelect" class="contractSelect">
-      <p>合同查询</p><img src="../img/向右.png">
+      <p>合同查询s</p><img src="../img/向右.png">
     </div>
   </div>
 </template>
